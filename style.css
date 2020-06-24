@@ -1,0 +1,21 @@
+body{
+    direction: rtl;
+    margin:0;
+    height:100%;
+    min-height:100%;
+}
+.table{
+    height: 20rem;
+    overflow-y: scroll;
+}
+.my-container{
+    margin: 40px 82px;
+}
+.img-food img{
+    width: 10rem;
+    border-radius: 50%;
+}
+.final{
+    overflow: hidden;
+    background-color: white;
+}
